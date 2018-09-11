@@ -1,0 +1,23 @@
+{
+	"name": "jquery-flot-spline",
+	"version": "1.0.0",
+	"description": "jQuery Flot Spline plugin",
+	"author": "miloszfalinski",
+	"main": "jquery.flot.spline.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/miloszfalinski/jquery.flot.spline"
+	},
+	"bugs": {
+		"url": "https://github.com/miloszfalinski/jquery.flot.spline/issues"
+	},
+	"keywords": [
+		"jquery",
+		"flot",
+		"spline"
+	],
+	"dependencies": {
+		"jquery": "^2.2.4"
+	},
+	"license": "MIT"
+}
